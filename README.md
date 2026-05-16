@@ -2,7 +2,7 @@
 
 # Agent_Kernel_Pack2.0
 
-> 一份围绕稳定 Kernel 与可加载行业 Pack 的模块化 Agent infrastructure 项目规划书
+> 一个围绕稳定 Kernel 与可加载行业 Pack 的模块化 Agent infrastructure 
 
 <p align="center">
   <strong>Stable Kernel. Industry Packs. Observable specialized Agents.</strong>
