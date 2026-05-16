@@ -1,0 +1,3 @@
+# Ignore communication-protocol content only
+**/构建协议/
+**/构建协议/**
