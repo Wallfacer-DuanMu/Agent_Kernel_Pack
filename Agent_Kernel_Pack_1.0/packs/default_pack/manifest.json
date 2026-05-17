@@ -1,0 +1,13 @@
+{
+  "name": "default_pack",
+  "version": "0.1.0",
+  "kernel_version": ">=0.1.0",
+  "description": "Default general-purpose agent pack",
+  "entry": {
+    "workflow": "workflow.py",
+    "policy": "policy.py",
+    "tools": "tools.py",
+    "output": "output.py",
+    "prompts": "prompts.py"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "provider": "kimi_compatible",
+  "api_base": "https://api.moonshot.cn/v1",
+  "api_path": "/chat/completions",
+  "api_key": "sk-Yc5Za0mlWFQRYjwAPn8bA9uR6aEO8NWM558oFKtAxa1kR2hZ",
+  "model": "moonshot-v1-32k",
+  "system_prompt": "",
+  "temperature": 0.2,
+  "timeout_seconds": 60,
+  "max_tokens": null,
+  "top_p": null,
+  "headers": {},
+  "extra_payload": {}
+}

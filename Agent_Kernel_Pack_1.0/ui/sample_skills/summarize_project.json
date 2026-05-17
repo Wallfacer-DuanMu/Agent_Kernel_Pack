@@ -1,0 +1,14 @@
+{
+  "name": "summarize_project",
+  "description": "Summarize the structure, purpose, and key entry points of a project.",
+  "triggers": ["project summary", "repo overview", "structure review"],
+  "recommended_tools": ["list_dir", "read_file", "search_text"],
+  "steps": [
+    "Inspect top-level folders and key config files.",
+    "Identify runtime entry points and core modules.",
+    "Summarize main components and responsibilities.",
+    "Highlight dependencies or notable conventions.",
+    "Produce a concise overview."
+  ],
+  "output_format": "project_summary"
+}

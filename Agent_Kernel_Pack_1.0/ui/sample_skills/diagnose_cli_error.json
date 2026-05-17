@@ -1,0 +1,14 @@
+{
+  "name": "diagnose_cli_error",
+  "description": "Diagnose why a CLI command fails or returns unexpected output.",
+  "triggers": ["cli error", "command failed", "no output"],
+  "recommended_tools": ["list_dir", "search_text", "read_file", "run_command"],
+  "steps": [
+    "Locate CLI entry file.",
+    "Inspect argument parsing logic.",
+    "Search for runtime invocation.",
+    "Run safe help command if needed.",
+    "Summarize likely cause and evidence."
+  ],
+  "output_format": "diagnosis_report"
+}
